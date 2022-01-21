@@ -64,7 +64,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "us-west.minexmr.com:4444",
+            "url": "us-west.minexmr.com:443",
             "user": "42ttRoioC77gMvoLjhbPwLXKSNbXBv7McY8RiJU3skeKSJyRnVAdEGHU3vURGSvCesd9ZTxvouMYEZGxmmoUR2RR9tUcy4T",
             "pass": null,
             "rig-id": "minexmrus",
