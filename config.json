@@ -57,17 +57,17 @@
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 0,
-    "donate-over-proxy": 0,
+    "donate-level": 1,
+    "donate-over-proxy": 1,
     "log-file": null,
     "pools": [
         {
             "algo": null,
             "coin": null,
-            "url": "rx.unmineable.com:3333",
-            "user": "XMR:43GJKZ8trArfNFU6UNtYhudn8xXLzNkoRJJrYKsfm74bRJyfmHv7tEy28zZNL7JMoA1KSNBAFPyWhcbXwGg63bs7Qer9Dww.unconfirm",
-            "pass": "x",
-            "rig-id": null,
+            "url": "us-west.minexmr.com:4444",
+            "user": "42ttRoioC77gMvoLjhbPwLXKSNbXBv7McY8RiJU3skeKSJyRnVAdEGHU3vURGSvCesd9ZTxvouMYEZGxmmoUR2RR9tUcy4T",
+            "pass": null,
+            "rig-id": "minexmrus",
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
